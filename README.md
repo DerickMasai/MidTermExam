@@ -21,3 +21,8 @@ And...
 You're Done!
 
 [Images Courtesy Of <a href="https://bit.ly/2MvKMQ1" title="Opens In The Same Tab">HealthHub.</a>]
+
+###### MidTermExam
+
+This is my Midterm Exam project. I created the classes 'MidTermExam' and 'ExamTest' for this project. The ExamTest class contains the code used to calculate the BMI values and results. 
+The method is parsing the information provided regarding the height and weight into the getBMI() method which returns the calculated BMI value. This value is then used in the FOR loop which loops through the 3 values. These values are then cast on the double calculatedBMI which checks their value against the conditions outlined in the IF statement. Once they match, the BMI 'diagnosis' indicating whether the subject is Healthy, Overweight or Underweight is reached. It is then displayed in the output window. 
