@@ -2,7 +2,7 @@
 
 *Did you know with your Body Mass Index (BMI) value alone you can easily figure out your risk level to contract several weight-related diseases?* With our app, CalculateMyBMI, you can easily find out you and your loved ones BMI value so you can proceed knowing the steps to take to maintain or get to a Healthy BMI value.
 
-<img src="1.gif" alt="BMI Meter" title="BMI Meter" height="125" width="245">
+<img src="1.gif" alt="BMI Meter" title="BMI Meter" height="135" width="260">
 
 ###### How It Works
 
