@@ -8,8 +8,15 @@
 
 1. Enter your weight.
 
-<img src="2.gif" alt="Weight" title="Enter Your Weight" height="400" width="250">
+<img src="2.gif" alt="Weight" title="Enter Your Weight" height="370" width="260">
 
 2. Enter your height.
 
-<img src="3.gif" alt="Height" title="Enter Your Height" height="400" width="250">
+<img src="3.gif" alt="Height" title="Enter Your Height" height="370" width="260">
+
+And...
+
+<img src="4.png" alt="Boom" title="That's It!" height="190" width="260">
+
+You're Done!
+
